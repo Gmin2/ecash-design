@@ -16,7 +16,7 @@ export function StatBand() {
         <SectionLabel>the fork</SectionLabel>
         <div className="py-12 md:py-16">
           <FramedBand className="px-2 py-4 md:px-6">
-            <div className="grid grid-cols-2 md:grid-cols-4">
+            <div className="grid grid-cols-1 max-md:[&>*:last-child>div]:border-b-0 sm:grid-cols-2 md:grid-cols-4">
               {stats.map((s, i) => (
                 <Reveal key={s.label} delay={i * 0.08}>
                   <div className="flex flex-col items-start px-6 py-8 max-md:border-b max-md:border-hairline md:border-l md:border-hairline md:first:border-l-0 md:[&:nth-child(3)]:border-l-0 lg:[&:nth-child(3)]:border-l">

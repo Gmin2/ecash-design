@@ -122,9 +122,11 @@ function Label({
 
 export function ForkDiagram({ className = "" }: { className?: string }) {
   return (
+    // scrolls sideways on phones so the labels stay legible
+    <div className={`overflow-x-auto ${className}`}>
     <motion.svg
       viewBox={`0 0 ${W} ${H}`}
-      className={`h-auto w-full ${className}`}
+      className="h-auto w-full min-w-[720px]"
       initial="hidden"
       whileInView="show"
       viewport={{ once: true, margin: "-80px" }}
@@ -311,5 +313,6 @@ export function ForkDiagram({ className = "" }: { className?: string }) {
         d={2.05}
       />
     </motion.svg>
+    </div>
   )
 }

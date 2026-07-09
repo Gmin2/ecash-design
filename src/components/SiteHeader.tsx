@@ -78,7 +78,7 @@ export function SiteHeader() {
         )}
       >
         <div className="mx-auto max-w-[1280px] px-6">
-          <div className="relative flex items-center justify-between py-3">
+          <div className="relative flex flex-wrap items-center justify-between py-3">
             <Link to="/" aria-label="eCash home" className="relative z-20">
               <Logo tone="ink" />
             </Link>

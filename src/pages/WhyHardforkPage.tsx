@@ -753,7 +753,7 @@ export function WhyHardforkPage() {
               <P>By comparison, the Lightning Network is also 10+ years old.</P>
 
               <div className="max-w-2xl overflow-x-auto border border-hairline">
-                <table className="w-full text-left text-[13.5px]">
+                <table className="w-full min-w-[520px] text-left text-[13.5px]">
                   <thead>
                     <tr className="border-b border-hairline">
                       <th className="mono px-4 py-3 text-[11px] font-medium uppercase tracking-[0.1em] text-ink/45" />
