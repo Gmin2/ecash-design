@@ -1,4 +1,5 @@
 import type { ReactNode } from "react"
+import { Link } from "react-router-dom"
 import { Reveal } from "./Reveal"
 import { BracketHeading } from "./primitives"
 
@@ -55,7 +56,7 @@ const steps: Step[] = [
     n: 3,
     eyebrow: "after",
     title: "use the sidechains",
-    body: "a DEX, privacy, payments — everything BTC cant do. BTC becomes an on-ramp for eCash.",
+    body: "a DEX, privacy, payments. everything BTC cant do. BTC becomes an on-ramp for eCash.",
     cta: "what BTC cant do",
     href: "#solution",
     icon: IconCubes,
@@ -90,6 +91,13 @@ export function WhatToExpect() {
               <BracketHeading className="mt-4 lowercase text-[clamp(30px,4.4vw,56px)]">
                 &nbsp;three moments&nbsp;
               </BracketHeading>
+              <Link
+                to="/what-to-expect"
+                className="group mt-6 inline-flex items-center gap-2 font-display text-[15px] font-medium text-accent transition-colors hover:text-paper"
+              >
+                the full timeline
+                <span className="transition-transform group-hover:translate-x-0.5">→</span>
+              </Link>
             </div>
           </Reveal>
 

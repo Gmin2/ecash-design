@@ -44,7 +44,7 @@ export function ProblemSolution() {
               transition={{ ...blurIn.transition, delay: 0.1 }}
               className="mt-6 max-w-2xl font-display text-[clamp(17px,2vw,22px)] leading-[1.4] text-ink/80"
             >
-              eCash is a hard fork that activates BIP 300/301 — sidechains for
+              eCash is a hard fork that activates BIP 300/301: sidechains for
               everything BTC cant do, without changing BTC itself.
             </motion.p>
 

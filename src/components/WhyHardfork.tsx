@@ -3,7 +3,7 @@ import { EdgeRulers } from "./primitives"
 
 const points = [
   "bitcoin can still improve. drivechains are ready. eCash ships them.",
-  "BTC becomes an on-ramp — its liquidity becomes eCash liquidity.",
+  "BTC becomes an on-ramp. its liquidity becomes eCash liquidity.",
   "the L1 stays identical to Bitcoin Core. nothing is forced onto BTC.",
 ]
 
@@ -21,7 +21,7 @@ export function WhyHardfork() {
           <Reveal delay={0.05}>
             <h2 className="mt-6 max-w-4xl font-display text-[clamp(30px,4.6vw,60px)] font-medium lowercase leading-[1.04] tracking-[-0.02em]">
               <span className="text-ink/55">[</span> it is not the BTC code that
-              is broken — it is the BTC community <span className="text-ink/55">]</span>
+              is broken. it is the BTC community <span className="text-ink/55">]</span>
             </h2>
           </Reveal>
 

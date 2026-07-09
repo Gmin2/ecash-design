@@ -1,0 +1,127 @@
+{
+  "title": "$100,000 Summer 2026 Bug Hunt Hackathon",
+  "organizer": "LayerTwoLabs",
+  "cross_promoted_by": "eCash",
+  "prize_pool_usd": 100000,
+  "structure": "5 contests x $20,000, biweekly",
+  "deadlines_utc": [
+    "2026-06-10T09:00:00Z",
+    "2026-06-24T09:00:00Z",
+    "2026-07-08T09:00:00Z",
+    "2026-07-22T09:00:00Z",
+    "2026-08-05T09:00:00Z"
+  ],
+  "status": "OPEN",
+  "primary_cta": {
+    "label": "Submit via @psztorc",
+    "url": "https://t.me/psztorc"
+  },
+  "secondary_cta": {
+    "label": "Full rules (drivechain.info)",
+    "url": "https://drivechain.info/blog/bug-contest/"
+  },
+  "repos_in_scope": [
+    {
+      "tier": "T1",
+      "name": "ForkNet",
+      "severity": "critical \u2014 auto-1st place",
+      "url": "https://github.com/drivechain-forknet/drivechain-forknet"
+    },
+    {
+      "tier": "T2",
+      "name": "BIP300/301 enforcer",
+      "severity": "high",
+      "url": "https://github.com/LayerTwo-Labs/bip300301_enforcer"
+    },
+    {
+      "tier": "T3",
+      "name": "Thunder",
+      "severity": "medium",
+      "url": "https://github.com/LayerTwo-Labs/thunder-rust"
+    },
+    {
+      "tier": "T3",
+      "name": "zSide",
+      "severity": "medium",
+      "url": "https://github.com/iwakura-rein/thunder-orchard"
+    },
+    {
+      "tier": "T3",
+      "name": "BitWindow",
+      "severity": "medium",
+      "url": "https://github.com/LayerTwo-Labs/drivechain-frontends"
+    },
+    {
+      "tier": "T4",
+      "name": "CoinShift",
+      "severity": "low",
+      "url": "https://github.com/LayerTwo-Labs/coinshift-rs"
+    },
+    {
+      "tier": "T4",
+      "name": "BitNames",
+      "severity": "low",
+      "url": "https://github.com/LayerTwo-Labs/plain-bitnames"
+    },
+    {
+      "tier": "T4",
+      "name": "BitAssets",
+      "severity": "low",
+      "url": "https://github.com/LayerTwo-Labs/plain-bitassets"
+    },
+    {
+      "tier": "T5",
+      "name": "Photon",
+      "severity": "minimal",
+      "url": "https://github.com/LayerTwo-Labs/photon"
+    },
+    {
+      "tier": "T5",
+      "name": "Truthcoin-DC",
+      "severity": "minimal",
+      "url": "https://github.com/LayerTwo-Labs/truthcoin-dc"
+    }
+  ],
+  "severity_tiers": [
+    {
+      "tier": "T1",
+      "label": "Network fork \u00b7 loss of funds \u00b7 inflation \u00b7 theft"
+    },
+    {
+      "tier": "T2",
+      "label": "Network crashes \u00b7 mining halts \u00b7 txns fail to confirm"
+    },
+    {
+      "tier": "T3",
+      "label": "Performance degrades significantly \u00b7 software slows"
+    },
+    {
+      "tier": "T4",
+      "label": "Anything else \u2014 graphical glitches \u00b7 mysterious behavior"
+    }
+  ],
+  "prizes_at_4plus_entries": {
+    "1st": 9000,
+    "2nd": 5500,
+    "3rd": 5500
+  },
+  "sole_entry_rule": "Sole entry takes home the full $20,000 for that contest.",
+  "entry_steps": [
+    {
+      "step": "Step 1",
+      "detail": "$ pay --method=\"telegram-stars\" --amount=20 --once \u2192 payment confirmed. entry window now active."
+    },
+    {
+      "step": "Step 2",
+      "detail": "$ hunt --window=\"2 weeks\" --repos=\"see scope\" \u2192 document each bug: what it is, why it qualifies."
+    },
+    {
+      "step": "Step 3",
+      "detail": "$ submit --to=@psztorc --format=\"bug-list+ReadMe\" --by=\"Wed 09:00 UTC\" \u2192 warning: invalid submissions incur negative points \u2014 be sure."
+    },
+    {
+      "step": "Step 4",
+      "detail": "$ await --results=\"Thu 17:00 NYC\" --payout=\"BTC or USD\" \u2192 winners announced by Thursday 5 PM NYC. bug lists made public. collect in BTC or USD."
+    }
+  ]
+}

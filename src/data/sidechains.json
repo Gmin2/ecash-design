@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "thunder",
+    "name": "Thunder",
+    "description": "High-throughput payments sidechain",
+    "status": "live",
+    "repo": "https://github.com/LayerTwo-Labs/thunder"
+  },
+  {
+    "slug": "zside",
+    "name": "zSide",
+    "description": "Privacy sidechain modeled on Zcash",
+    "status": "live",
+    "repo": "https://github.com/LayerTwo-Labs/zebra"
+  },
+  {
+    "slug": "bitnames",
+    "name": "BitNames",
+    "description": "Decentralized identity & DNS",
+    "status": "live",
+    "repo": "https://github.com/LayerTwo-Labs/plain-bitnames"
+  },
+  {
+    "slug": "bitassets",
+    "name": "BitAssets",
+    "description": "NFTs, ERC20-style tokens",
+    "status": "live",
+    "repo": "https://github.com/LayerTwo-Labs/plain-bitassets"
+  },
+  {
+    "slug": "photon",
+    "name": "Photon",
+    "description": "Quantum-resistant sidechain",
+    "status": "in-progress",
+    "repo": "https://github.com/LayerTwo-Labs/photon"
+  },
+  {
+    "slug": "truthcoin",
+    "name": "Truthcoin",
+    "description": "Prediction markets",
+    "status": "live",
+    "repo": "https://github.com/LayerTwo-Labs/truthcoin-dc"
+  },
+  {
+    "slug": "coinshift",
+    "name": "CoinShift",
+    "description": "Decentralized exchange",
+    "status": "in-progress",
+    "repo": "https://github.com/LayerTwo-Labs/coinshift-rs"
+  }
+]

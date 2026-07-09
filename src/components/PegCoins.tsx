@@ -78,7 +78,7 @@ function Coins() {
         transition={{ duration: 0.4 }}
       />
 
-      {/* BTC coin — under */}
+      {/* BTC coin, under */}
       <motion.g
         initial={{ opacity: 0, scale: 0.92 }}
         animate={inView ? { opacity: 1, scale: 1 } : { opacity: 0, scale: 0.92 }}
@@ -96,7 +96,7 @@ function Coins() {
         </motion.g>
       </motion.g>
 
-      {/* eCash coin — drops onto the BTC coin */}
+      {/* eCash coin, drops onto the BTC coin */}
       <motion.g
         initial={{ opacity: 0, y: -150 }}
         animate={inView ? { opacity: 1, y: 0 } : { opacity: 0, y: -150 }}

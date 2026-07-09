@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 import {
   Accordion,
   AccordionContent,
@@ -5,34 +6,11 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion"
 import { Reveal } from "./Reveal"
+import { IconArrowRight } from "./icons"
 import { BracketHeading, EdgeRulers, SectionLabel } from "./primitives"
+import faqItems from "../data/faq.json"
 
-const faqs = [
-  {
-    q: "do i need to do anything to get eCash?",
-    a: "no. every BTC address gets eCash 1:1 at block ~964,000. no claim, no form, no whitelist. run a node and you have it.",
-  },
-  {
-    q: "what happens to my BTC?",
-    a: "nothing. your BTC stays yours. eCash is a separate coin you also receive — before: 1 BTC, after fork: 1 BTC + 1 eCash.",
-  },
-  {
-    q: "what is a drivechain?",
-    a: "BIP 300/301 let bitcoin add sidechains without changing the L1. eCash activates them via the hard fork — sidechains for everything BTC cant do.",
-  },
-  {
-    q: "wont the hashrate be low? how do you prevent a 51% attack?",
-    a: "eCash is merged-mined by bitcoin miners, so no new hashrate has to be bootstrapped. BitcoinSV was never 51% attacked even at under 0.5% hashrate.",
-  },
-  {
-    q: "when is the fork?",
-    a: "at block ~964,000, around 21 august 2026. download bitwindow and sync a node before then.",
-  },
-  {
-    q: "where can i trade eCash?",
-    a: "exchanges and instant-swaps are listed at launch. because it is a hard fork, any BTC liquidity becomes eCash liquidity — BTC is an on-ramp.",
-  },
-]
+const teaser = faqItems.slice(0, 4)
 
 export function Faq() {
   return (
@@ -42,19 +20,30 @@ export function Faq() {
         <SectionLabel>faq</SectionLabel>
         <div className="grid gap-10 py-14 md:grid-cols-[0.7fr_1.3fr] md:py-20">
           <Reveal>
-            <BracketHeading className="lowercase text-[clamp(28px,4vw,48px)]">
-              &nbsp;common questions&nbsp;
-            </BracketHeading>
+            <div>
+              <BracketHeading className="lowercase text-[clamp(28px,4vw,48px)]">
+                &nbsp;common questions&nbsp;
+              </BracketHeading>
+              <Link
+                to="/faq"
+                className="group mt-6 inline-flex items-center gap-2 font-display text-[15px] font-medium text-accent-deep transition-colors hover:text-ink"
+              >
+                all {faqItems.length} questions
+                <IconArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5" />
+              </Link>
+            </div>
           </Reveal>
           <Reveal delay={0.05}>
             <Accordion type="single" collapsible className="w-full border-t border-hairline">
-              {faqs.map((f) => (
-                <AccordionItem key={f.q} value={f.q} className="border-hairline">
+              {teaser.map((f) => (
+                <AccordionItem key={f.question} value={f.question} className="border-hairline">
                   <AccordionTrigger className="font-display text-[17px] font-medium text-ink hover:no-underline">
-                    {f.q}
+                    {f.question}
                   </AccordionTrigger>
-                  <AccordionContent className="max-w-2xl text-[15px] leading-[1.55] text-ink/65">
-                    {f.a}
+                  <AccordionContent className="max-w-2xl space-y-3 text-[15px] leading-[1.55] text-ink/65">
+                    {f.answer.split("\n\n").map((para, j) => (
+                      <p key={j}>{para}</p>
+                    ))}
                   </AccordionContent>
                 </AccordionItem>
               ))}

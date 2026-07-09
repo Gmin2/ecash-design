@@ -1,11 +1,8 @@
 import { useEffect, useState } from "react"
 import { AnimatePresence, motion, MotionConfig } from "motion/react"
-import { useDialKit } from "dialkit"
-import { HexStream } from "./HexStream"
-import { PlusDecorator } from "./primitives"
 
-// the bitcoin hard fork that activates eCash — block ~964,000
-export const FORK_DATE = new Date("2026-08-21T12:00:00Z")
+// the bitcoin hard fork that activates eCash at block ~964,000
+export const FORK_DATE = new Date("2026-08-21T15:00:00Z")
 
 type Parts = { days: number; hours: number; mins: number; secs: number }
 
@@ -65,86 +62,9 @@ export function Countdown() {
     return () => clearInterval(id)
   }, [])
 
-  // live-tunable pattern controls (interface-craft DialKit)
-  const d = useDialKit("Countdown Box", {
-    pattern: {
-      type: "select",
-      options: ["none", "hatch", "hatch+grid", "grid", "dots"],
-      default: "none",
-    },
-    hatchOpacity: [0.4, 0, 0.6],
-    gridOpacity: [0.18, 0, 0.4],
-    hexOpacity: [0, 0, 0.5],
-    scanSeconds: [4, 1, 12],
-    showScan: false,
-    plusFrame: true,
-    cornerBrackets: false,
-  }) as {
-    pattern: string
-    hatchOpacity: number
-    gridOpacity: number
-    hexOpacity: number
-    scanSeconds: number
-    showScan: boolean
-    plusFrame: boolean
-    cornerBrackets: boolean
-  }
-
-  const showHatch = d.pattern === "hatch" || d.pattern === "hatch+grid"
-  const showGrid = d.pattern === "grid" || d.pattern === "hatch+grid"
-  const showDots = d.pattern === "dots"
-
   return (
     <MotionConfig transition={{ type: "spring", stiffness: 400, damping: 35 }}>
       <div className="relative w-full overflow-hidden border border-ink/35 bg-accent px-6 py-6 sm:px-9 sm:py-8">
-        {/* layered technical texture (tunable) */}
-        {showGrid && (
-          <span
-            className="tex-grid pointer-events-none absolute inset-0"
-            style={{ opacity: d.gridOpacity }}
-          />
-        )}
-        {showHatch && (
-          <span
-            className="tex-hatch mask-edges pointer-events-none absolute inset-0"
-            style={{ opacity: d.hatchOpacity }}
-          />
-        )}
-        {showDots && (
-          <span
-            className="tex-dots mask-edges pointer-events-none absolute inset-0"
-            style={{ opacity: d.hatchOpacity }}
-          />
-        )}
-        <HexStream
-          className="text-[clamp(9px,1vw,13px)]"
-          style={{ color: `color-mix(in srgb, var(--color-ink) ${d.hexOpacity * 100}%, transparent)` }}
-        />
-        {d.showScan && (
-          <span
-            className="pointer-events-none absolute inset-x-0 top-0 h-14 bg-gradient-to-b from-transparent via-ink/[0.06] to-transparent"
-            style={{ animation: `scanY ${d.scanSeconds}s linear infinite` }}
-          />
-        )}
-
-        {/* plus-decorator frame around the card (secondary-hero/20 style) */}
-        {d.plusFrame && (
-          <>
-            <PlusDecorator className="left-1/2 top-[3px] -translate-x-1/2" />
-            <PlusDecorator className="bottom-[3px] left-1/2 -translate-x-1/2" />
-            <PlusDecorator className="left-[3px] top-1/2 -translate-y-1/2" />
-            <PlusDecorator className="right-[3px] top-1/2 -translate-y-1/2" />
-          </>
-        )}
-        {d.cornerBrackets && (
-          <>
-            <Corner className="left-[-1px] top-[-1px] border-l-2 border-t-2" />
-            <Corner className="right-[-1px] top-[-1px] border-r-2 border-t-2" />
-            <Corner className="bottom-[-1px] left-[-1px] border-b-2 border-l-2" />
-            <Corner className="bottom-[-1px] right-[-1px] border-b-2 border-r-2" />
-          </>
-        )}
-
         {/* readout header */}
         <div className="relative mono flex items-center justify-between text-[11px] uppercase tracking-[0.16em] text-ink/70">
           <span className="flex items-center gap-2">
@@ -221,11 +141,3 @@ function Sep() {
   )
 }
 
-function Corner({ className }: { className: string }) {
-  return (
-    <span
-      className={`absolute h-4 w-4 border-ink ${className}`}
-      aria-hidden="true"
-    />
-  )
-}

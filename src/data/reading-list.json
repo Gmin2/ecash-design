@@ -1,0 +1,227 @@
+[
+  {
+    "group": "BIP-300 Basics",
+    "items": [
+      {
+        "name": "LayerTwoLabs main page",
+        "url": "https://layertwolabs.com/",
+        "description": "Overview, GIFs, and comparison tables"
+      },
+      {
+        "name": "50+ Endorsements",
+        "url": "https://layertwolabs.com/friends",
+        "description": "Support from prominent Bitcoin voices"
+      },
+      {
+        "name": "Try the Software",
+        "url": "https://layertwolabs.com/download",
+        "description": "Downloads and hands-on testing"
+      },
+      {
+        "name": "drivechain.info",
+        "url": "https://www.drivechain.info/",
+        "description": "Primary reference site"
+      },
+      {
+        "name": "truthcoin.info",
+        "url": "https://www.truthcoin.info/",
+        "description": "Paul's long-form writing archive"
+      },
+      {
+        "name": "Paul's Resume",
+        "url": "https://www.truthcoin.info/paul/",
+        "description": "Background and prior work"
+      }
+    ]
+  },
+  {
+    "group": "YouTube / Twitter Spaces",
+    "items": [
+      {
+        "name": "3-minute explainer video",
+        "url": "https://www.youtube.com/watch?v=JwIoTaJQNi0&list=PLw8-6ARlyVciMH79ZyLOpImsMug3LgNc4&index=1",
+        "description": "Shortest intro to the thesis"
+      },
+      {
+        "name": "Playlist of all Drivechain-related videos",
+        "url": "https://www.youtube.com/watch?v=JwIoTaJQNi0&list=PLw8-6ARlyVciMH79ZyLOpImsMug3LgNc4&index=1",
+        "description": "Full archive of talks and explainers"
+      },
+      {
+        "name": "Paul Sztorc Media Appearances",
+        "url": "https://www.truthcoin.info/rss/",
+        "description": "Podcast and interview feed"
+      },
+      {
+        "name": "2023 Spaces archive",
+        "url": "https://layertwolabs.com/spaces",
+        "description": "Recorded Twitter/X Spaces series"
+      }
+    ]
+  },
+  {
+    "group": "GitHub / Tech",
+    "items": [
+      {
+        "name": "Official L2L Github",
+        "url": "https://github.com/LayerTwo-Labs",
+        "description": "Core org repositories"
+      },
+      {
+        "name": "Scaling Bitcoin",
+        "url": "https://github.com/LayerTwo-Labs/thunder-rust",
+        "description": "Thunder implementation work"
+      },
+      {
+        "name": "every txn on Earth",
+        "url": "https://www.truthcoin.info/blog/all-world-txns/",
+        "description": "Scaling argument in essay form"
+      },
+      {
+        "name": "Strong privacy",
+        "url": "https://github.com/iwakura-rein/thunder-orchard",
+        "description": "Privacy-focused prototype work"
+      },
+      {
+        "name": "CUSF enforcer",
+        "url": "https://github.com/LayerTwo-Labs/bip300301_enforcer",
+        "description": "Client-side soft fork enforcement"
+      },
+      {
+        "name": "bip300cusf.com",
+        "url": "https://bip300cusf.com/",
+        "description": "CUSF explainer and install path"
+      },
+      {
+        "name": "Faucet and Multi-Chain Block Explorer",
+        "url": "https://node.drivechain.info/#/faucet",
+        "description": "Public signet tools"
+      },
+      {
+        "name": "Dev Notes",
+        "url": "https://www.drivechain.info/dev.txt",
+        "description": "Technical notes and implementation context"
+      }
+    ]
+  },
+  {
+    "group": "Drivechain.info",
+    "items": [
+      {
+        "name": "front page / literature summary",
+        "url": "https://www.drivechain.info/",
+        "description": "Entry point to the full thesis"
+      },
+      {
+        "name": "Literature page",
+        "url": "https://www.drivechain.info/literature/index.html",
+        "description": "Talks, slides, transcripts, and videos"
+      },
+      {
+        "name": "Drivechain FAQ",
+        "url": "https://www.drivechain.info/faq/index.html",
+        "description": "Longstanding technical FAQ"
+      },
+      {
+        "name": "archive of articles",
+        "url": "https://www.drivechain.info/archive/",
+        "description": "Published posts and updates"
+      },
+      {
+        "name": "Misinformation Page",
+        "url": "https://www.drivechain.info/misinformation/index.html",
+        "description": "Responses to recurring objections"
+      }
+    ]
+  },
+  {
+    "group": "Paul's Writing",
+    "items": [
+      {
+        "name": "The Archives",
+        "url": "https://www.truthcoin.info/archive/",
+        "description": "Every article in one place"
+      },
+      {
+        "name": "Derangements of Bitcoin (2025)",
+        "url": "https://www.truthcoin.info/blog/derangements/",
+        "description": "Cultural critique of Bitcoin today"
+      },
+      {
+        "name": "Sidechains for Scaling \u2013 Thunder Network",
+        "url": "https://www.truthcoin.info/blog/thunder/",
+        "description": "Scaling via sidechains"
+      },
+      {
+        "name": "Sidechains for Privacy \u2013 zSide and Melt/Cast",
+        "url": "https://www.truthcoin.info/blog/zside-meltcast/",
+        "description": "Privacy architecture overview"
+      },
+      {
+        "name": "Sidechains for Identity \u2013 BitNames",
+        "url": "https://www.truthcoin.info/blog/bitnames/",
+        "description": "Identity and naming on Bitcoin"
+      },
+      {
+        "name": "Drivechain (2015)",
+        "url": "https://www.truthcoin.info/blog/drivechain/",
+        "description": "Original Drivechain essay"
+      },
+      {
+        "name": "Nothing is Cheaper than Proof-of-Work",
+        "url": "https://www.truthcoin.info/blog/pow-cheapest/",
+        "description": "Security and mining economics"
+      },
+      {
+        "name": "Security Budget in the Long Run, Part II",
+        "url": "https://www.truthcoin.info/blog/security-budget-ii-mm/",
+        "description": "Long-run fee and security framing"
+      },
+      {
+        "name": "Measuring Decentralization",
+        "url": "https://www.truthcoin.info/blog/measuring-decentralization/",
+        "description": "How to think about decentralization"
+      },
+      {
+        "name": "GARP",
+        "url": "https://www.truthcoin.info/blog/garp/",
+        "description": "Hard-fork governance concept"
+      },
+      {
+        "name": "IMEX",
+        "url": "https://www.truthcoin.info/blog/imex/",
+        "description": "Companion essay on hard forks"
+      }
+    ]
+  },
+  {
+    "group": "Official Communities",
+    "items": [
+      {
+        "name": "DC Insiders",
+        "url": "https://t.me/DcInsiders/",
+        "description": "Main Telegram community"
+      },
+      {
+        "name": "Paul's Twitter",
+        "url": "https://x.com/truthcoin",
+        "description": "Current posts and commentary"
+      },
+      {
+        "name": "Paul's Telegram",
+        "url": "https://t.me/psztorc",
+        "description": "Direct Telegram channel"
+      }
+    ]
+  },
+  {
+    "group": "Community Writing",
+    "items": [
+      {
+        "name": "eCash Blog",
+        "url": "https://ecashblog.com/",
+        "description": "Community blog \u2014 long-form writing on eCash, drivechains, and the launch. Community-run, not a LayerTwo Labs property."
+      }
+    ]
+  }
+]

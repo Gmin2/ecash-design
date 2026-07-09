@@ -11,12 +11,16 @@ import { Faq } from "./components/Faq"
 import { FinalCta } from "./components/FinalCta"
 import { Footer } from "./components/Footer"
 
-export function HomePage() {
+export function HomePage({
+  hero,
+}: {
+  hero?: { background?: "gold" | "paper" | "night"; layout?: "stacked" | "split" }
+} = {}) {
   return (
     <>
       <SiteHeader />
       <main>
-        <Hero />
+        <Hero {...hero} />
         <StatBand />
         <PegSection />
         <ProblemSolution />

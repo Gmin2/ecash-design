@@ -46,7 +46,7 @@ function Timeline() {
       .add(root.querySelector(".tl-blocker")!, { opacity: [0, 1], scale: [0.5, 1], duration: 380, ease: "outBack" }, 1600)
     const glow = animate(q(".tl-glow"), { opacity: [0.15, 0.4], scale: [0.92, 1.08], loop: true, alternate: true, duration: 1400, ease: "inOut(2)" })
     const miss = animate(q(".tl-miss"), { opacity: [0.25, 0.7], loop: true, alternate: true, duration: 1300, ease: "inOut(2)", delay: 1100 })
-    // the head shakes against the blocker — cant get past
+    // the head shakes against the blocker, cant get past
     const shake = animate(root.querySelectorAll(".tl-head-shake"), { translateX: [0, 5, -1, 3, 0], loop: true, duration: 500, ease: "inOut(2)", delay: 2050 })
     const bshake = animate(root.querySelectorAll(".tl-blocker-shake"), { translateX: [0, 2, -2, 0], loop: true, duration: 500, ease: "inOut(2)", delay: 2050 })
     return () => {

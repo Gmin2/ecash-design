@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 import { IconGithub, IconYoutube, IconTelegram, IconX } from "./icons"
 import { LogoMark } from "./Logo"
 
@@ -5,28 +6,29 @@ const cols = [
   {
     title: "the fork",
     links: [
-      { name: "countdown", href: "#countdown" },
-      { name: "run a node", href: "#run-a-node" },
-      { name: "what to expect", href: "#what-to-expect" },
-      { name: "the airdrop", href: "#the-airdrop" },
+      { name: "what to expect", href: "/what-to-expect" },
+      { name: "download", href: "/download" },
+      { name: "sidechains", href: "/sidechains" },
+      { name: "bounty", href: "/bounty" },
     ],
   },
   {
     title: "learn",
     links: [
-      { name: "why hardfork", href: "#why" },
-      { name: "launch faq", href: "#launch-faq" },
-      { name: "drivechain faq", href: "https://drivechain.info" },
-      { name: "further reading", href: "#reading" },
+      { name: "why hardfork", href: "/why-hardfork" },
+      { name: "faq", href: "/faq" },
+      { name: "reading", href: "/reading" },
+      { name: "blog", href: "/blog" },
     ],
   },
   {
     title: "more",
     links: [
-      { name: "media", href: "#media" },
-      { name: "literature", href: "#literature" },
-      { name: "brand", href: "#brand" },
-      { name: "community", href: "#community" },
+      { name: "media", href: "/media" },
+      { name: "endorsements", href: "/endorsements" },
+      { name: "socials", href: "/socials" },
+      { name: "sol token", href: "/sol-token" },
+      { name: "brand", href: "/brand" },
     ],
   },
 ]
@@ -44,12 +46,12 @@ export function Footer() {
       <div className="mx-auto max-w-[1126px] px-6 py-16">
         <div className="grid gap-12 md:grid-cols-[1.4fr_1fr_1fr_1fr]">
           <div>
-            <a href="/" className="flex items-center gap-2.5">
+            <Link to="/" className="flex items-center gap-2.5">
               <LogoMark className="h-7 w-7 object-contain" tone="gold" />
               <span className="font-display text-[20px] font-semibold tracking-tight text-paper">
                 eCash
               </span>
-            </a>
+            </Link>
             <p className="mt-4 max-w-xs text-[14px] leading-[1.5] text-paper/50">
               a hard fork of bitcoin that activates drivechains. every BTC holder
               receives eCash 1:1 on fork day.
@@ -74,21 +76,16 @@ export function Footer() {
                 {c.title}
               </h4>
               <ul className="mt-4 flex flex-col gap-2.5">
-                {c.links.map((l) => {
-                  const external = l.href.startsWith("http")
-                  return (
-                    <li key={l.name}>
-                      <a
-                        href={l.href}
-                        {...(external ? { target: "_blank", rel: "noreferrer" } : {})}
-                        className="font-display text-[14px] text-paper/70 transition-colors hover:text-paper"
-                      >
-                        {l.name}
-                        {external && <span className="ml-1 text-paper/30">↗</span>}
-                      </a>
-                    </li>
-                  )
-                })}
+                {c.links.map((l) => (
+                  <li key={l.name}>
+                    <Link
+                      to={l.href}
+                      className="font-display text-[14px] text-paper/70 transition-colors hover:text-paper"
+                    >
+                      {l.name}
+                    </Link>
+                  </li>
+                ))}
               </ul>
             </div>
           ))}

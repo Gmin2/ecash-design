@@ -17,7 +17,7 @@ const pillars: Pillar[] = [
     key: "airdrop",
     title: "1:1 to holders",
     description:
-      "every BTC address receives eCash 1:1 at block ~964,000. no claim, no form — run a node and you have it.",
+      "every BTC address receives eCash 1:1 at block ~964,000. no claim, no form. run a node and you have it.",
     color: "#e57a3c",
   },
   {
@@ -31,7 +31,7 @@ const pillars: Pillar[] = [
     key: "sidechains",
     title: "what BTC cant do",
     description:
-      "a DEX, privacy, identity, high-throughput payments — all on sidechains, none of it forced onto BTC.",
+      "a DEX, privacy, identity, high-throughput payments. all on sidechains, none of it forced onto BTC.",
     color: "#c98a3e",
   },
 ]
@@ -83,7 +83,7 @@ export function SolutionStack() {
 
   return (
     <div ref={ref} className="grid items-center gap-10 lg:grid-cols-[1.05fr_1fr]">
-      {/* LEFT: one illustration block — its bars re-fill as the pillar changes */}
+      {/* LEFT: one illustration block, its bars re-fill as the pillar changes */}
       <div className="relative mx-auto w-full max-w-[300px]">
         <ChainIllustration key={index} active accent={pillars[index].color} />
       </div>

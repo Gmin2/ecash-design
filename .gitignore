@@ -24,3 +24,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# scraped content source, not part of the app
+ecash-content-database/

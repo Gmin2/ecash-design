@@ -1,0 +1,189 @@
+{
+  "_comment": "Operator-editable. sections[] drives the Media tab. Add playlistId to auto-index from YouTube RSS. featured[]/curated[] pins items at the front. Add/remove sections here only \u2014 no code change needed.",
+  "channelUrl": "https://www.youtube.com/@eCashDotCom",
+  "sections": [
+    {
+      "key": "interviews",
+      "label": "eCash podcasts",
+      "featured": [
+        {
+          "id": "5bUgkPwBTMo",
+          "title": "THE PERFECT FAILURE | Why BIP 110's Bitcoin Fork Will Be Worthless",
+          "description": "eCash official video breaking down why BIP 110's competing Bitcoin fork is fundamentally flawed.",
+          "date": "2026-06-30",
+          "author": "eCash"
+        },
+        {
+          "id": "AoxY5tWhaYk",
+          "title": "BITCOIN'S OLDEST INVESTORS ARE SCARED | $5 Million Fundraising Proves It",
+          "description": "eCash official video on how the $5M community fundraise signals a major shift \u2014 Bitcoin's oldest investors are taking notice.",
+          "date": "2026-06-10",
+          "author": "eCash"
+        },
+        {
+          "id": "3PEzf-DBiv8",
+          "title": "THE WORST IS YET TO COME | This Number Proves BTC Is In Danger",
+          "description": "Paul Sztorc on the data that shows Bitcoin's security budget crisis is accelerating \u2014 and why eCash is the answer.",
+          "date": "2026-06-05",
+          "author": "eCash"
+        },
+        {
+          "id": "KNoqOWWVE8w",
+          "title": "THIS WILL IGNITE THE NEXT BULL RUN!!",
+          "description": "Pantheon interviews Paul Sztorc on eCash, drivechains, and why the August 21 hardfork could be the catalyst the market is waiting for.",
+          "date": "2026-06-03",
+          "author": "Pantheon"
+        },
+        {
+          "id": "6U143dPqUuo",
+          "title": "Bitcoin Developer: Hard Forking Bitcoin to Launch eCash",
+          "description": "XXIM interviews Paul Sztorc on Lightning & Bitcoin Cash failures, and why eCash is the next step.",
+          "date": "2026-05-24",
+          "author": "XXIM"
+        },
+        {
+          "id": "ZE-nNVEKmAk",
+          "title": "Nobody Touches Satoshi's Coins. eCash Just Did.",
+          "description": "eCash Official \u2014 published May 21, 2026.",
+          "date": "2026-05-21",
+          "author": "eCash"
+        },
+        {
+          "id": "C0nxRCiegXs",
+          "title": "A New Bitcoin Fork is Coming \u2014 Everything You Need to Know About the eCash Hard Fork",
+          "description": "Blockspace breaks down the eCash hardfork: what it is, why it's happening, and what it means for Bitcoin.",
+          "date": "2026-05-02",
+          "author": "Blockspace"
+        },
+        {
+          "id": "QlTENvWsxIQ",
+          "title": "The Bitcoin Fork that Changes Everything | Interview with Paul Sztorc",
+          "description": "Crypto Vigilante interviews Paul Sztorc on the eCash hardfork, Drivechains, and what it means for Bitcoin.",
+          "date": "2026-04-30",
+          "author": "eCash"
+        },
+        {
+          "id": "-fx_esffAyc",
+          "title": "Paul Sztorc \u2014 eCash \u2014 BTC Fork | Ernest Hancock",
+          "description": "Paul Sztorc on the Ernest Hancock Show, discussing the eCash Bitcoin fork and what it means for freedom technology.",
+          "date": "2026-04-24",
+          "author": "Ernest Hancock"
+        },
+        {
+          "id": "1DXWOMsbu-Q",
+          "title": "Paul Sztorc Launches Drivechains on the eCash Bitcoin Hard Fork",
+          "description": "Paul announces the August 21 hardfork at Drivechain Day. The whole roadmap, the why, and what BTC holders need to do.",
+          "date": "2026-04-15",
+          "author": "eCash"
+        },
+        {
+          "id": "VLYbluQNFBQ",
+          "title": "Drivechains Author to Hardfork Bitcoin",
+          "description": "First public announcement of the eCash fork. Why now, after a decade of waiting on Bitcoin Core.",
+          "date": "2026-04-12",
+          "author": "eCash"
+        },
+        {
+          "id": "99KHVbwYOrI",
+          "title": "A New Bitcoin Fork?! Digital Cash Rundown 225",
+          "description": "Paul on Stephan Livera's pod: BIP 300/301 activation, sidechain count, the case against waiting any longer.",
+          "date": "2026-04-10",
+          "author": "eCash"
+        },
+        {
+          "id": "SpsrmWAXPws",
+          "title": "Pete Rizzo \u2014 Bitcoin OG: Bitcoin Is Dead",
+          "description": "Bitcoin Magazine editor on why eCash matters: 'anybody in the developer community will tell you they respect Paul Sztorc.'",
+          "date": "2026-04-08",
+          "author": "eCash"
+        }
+      ]
+    },
+    {
+      "key": "xspaces",
+      "label": "x spaces",
+      "featured": [
+        {
+          "id": "1wxWjjqWlXMJQ",
+          "title": "eCash X Space",
+          "description": "Live X Space broadcast discussion on eCash and the upcoming hardfork.",
+          "date": "2026-06-14",
+          "author": "eCash",
+          "externalUrl": "https://x.com/i/broadcasts/1wxWjjqWlXMJQ"
+        },
+        {
+          "id": "v3hEQH7pXDw",
+          "title": "eCash X Space",
+          "description": "Live X Space discussion on eCash and the upcoming hardfork.",
+          "date": "2026-05-01",
+          "author": "eCash"
+        },
+        {
+          "id": "g3MR9rkfeds",
+          "title": "eCash X Space",
+          "description": "Live X Space discussion on eCash and the upcoming hardfork.",
+          "date": "2026-04-20",
+          "author": "eCash"
+        },
+        {
+          "id": "pdcvMRr_LR8",
+          "title": "eCash X Space",
+          "description": "Live X Space discussion on eCash and the upcoming hardfork.",
+          "date": "2026-04-10",
+          "author": "eCash"
+        },
+        {
+          "id": "2kNWSpZOR1Y",
+          "title": "eCash X Space",
+          "description": "Live X Space discussion on eCash and the upcoming hardfork.",
+          "date": "2026-03-20",
+          "author": "eCash"
+        }
+      ]
+    },
+    {
+      "key": "explainers",
+      "label": "drivechain explainers",
+      "playlistId": "PLAHeWDyAh2B7fnjnPNhG8kwjaanStx79S",
+      "featured": [
+        {
+          "id": "k5i3IP3ZYv8",
+          "title": "Drivechains from Scratch",
+          "description": "The clearest on-record explanation of how BIP 300 works \u2014 the blind merge mining model, sidechain slots, and the withdrawal mechanism."
+        }
+      ]
+    },
+    {
+      "key": "stories",
+      "label": "eCash stories",
+      "featured": [
+        {
+          "id": "jlL6ewWf5dE",
+          "title": "eCash: Try Again?",
+          "description": "A short-form story on eCash's second chance \u2014 and why this time is different.",
+          "date": "2026-05-29",
+          "author": "eCash"
+        },
+        {
+          "id": "r9JWZ5CzVvY",
+          "title": "eCash \u2014 The Story",
+          "description": "An artistic explainer on what eCash is and why it matters. Visual storytelling for the hardfork era.",
+          "date": "2026-05-01",
+          "author": "eCash"
+        }
+      ]
+    },
+    {
+      "key": "debates",
+      "label": "debates",
+      "curated": [
+        {
+          "id": "EhJoJPf76Pw",
+          "title": "The Lightning Debate",
+          "description": "A head-to-head on whether Lightning Network or Drivechains is the right path forward for Bitcoin payments and scalability.",
+          "date": "2026-03-01"
+        }
+      ]
+    }
+  ]
+}

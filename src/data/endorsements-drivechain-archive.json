@@ -1,0 +1,1218 @@
+[
+  {
+    "id": "drivechain-001",
+    "type": "Tweet",
+    "person": "Adam Back",
+    "handle": "@adam3us",
+    "role": "Co-Founder and CEO of Blockstream, inventor of Hashcash",
+    "snippet": "props to @Truthcoin and team for implementing and validating drivechain design.",
+    "link": "https://twitter.com/adam3us/status/1580282460234924032",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": true
+  },
+  {
+    "id": "drivechain-002",
+    "type": "Video",
+    "person": "Adam Back",
+    "handle": "",
+    "role": "Co-Founder and CEO of Blockstream, inventor of Hashcash",
+    "snippet": "Drivechains...are pretty cool...and arguably could have been more important or useful than let\u2019s say Taproot.",
+    "link": "https://www.youtube.com/live/zp1B_i4JlXc?feature=share&t=7117",
+    "source": "YouTube",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": true
+  },
+  {
+    "id": "drivechain-003",
+    "type": "Tweet",
+    "person": "Adam Back",
+    "handle": "@adam3us",
+    "role": "Co-Founder and CEO of Blockstream, inventor of Hashcash",
+    "snippet": "I think we 're gonna need a big p2p sidechain for the next billion users to benefit from unseizable, censor-resistant #bitcoin. opcodes to support p2p sidechains like drivechain @LayerTwoLabs, p2p @liquid, @rootstock_io rootstock.",
+    "link": "https://twitter.com/adam3us/status/1661737534366584833",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": true
+  },
+  {
+    "id": "drivechain-004",
+    "type": "Tweet",
+    "person": "Robin Linus",
+    "handle": "@robin_linus",
+    "role": "Co-founder ZeroSync, inventor of BitVM and BitStream",
+    "snippet": "The brain drain is real though. I know dozens of bright researchers and engineers who left the bitcoin community because it takes more than a decade of pointless drama to activate even the most simple updates like covenants. We should activate BIP300 and then ossify the baselayer",
+    "link": "https://twitter.com/robin_linus/status/1664708802854395905",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": true
+  },
+  {
+    "id": "drivechain-005",
+    "type": "Tweet",
+    "person": "Ren\u00e9 Pickhardt",
+    "handle": "@renepickhardt",
+    "role": "author of Mastering the Lightning Network",
+    "snippet": "On the weekend I watched this very interesting and insightful @BTCTKVR episode with @Truthcoin and @TheVladCostea https://www.youtube.com/watch?v=RdyoOO_i7lk (2.5 hours) I find it sad that the bip300 discussion became so polarized as Paul has some strong arguments and meritfull observations. That being said: Recommending a pocast episode and encouraging dialog is no endorsement for or against bip300 as I do not really understand the implications of the proposal as my technical understanding of #Bitcoin is way to small to have a properly informed opinion.",
+    "link": "https://x.com/renepickhardt/status/1701135534020513976",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": true
+  },
+  {
+    "id": "drivechain-006",
+    "type": "Article",
+    "person": "Fiatjaf",
+    "handle": "",
+    "role": "creator of Nostr",
+    "snippet": "Drivechains solve many different problems",
+    "link": "https://fiatjaf.com/drivechain.html",
+    "source": "Article",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": true
+  },
+  {
+    "id": "drivechain-007",
+    "type": "Nostr",
+    "person": "Fiatjaf",
+    "handle": "",
+    "role": "creator of Nostr",
+    "snippet": "However everything would be less stupid, and the arguments would be sounder, and the entire thing would work better if Bitcoin had drivechains and could scale properly. Maximalists would be happier and the non-scammy shitcoiners would be happier.",
+    "link": "http://njump.me/note1qqqreujae4gmfzpnq75vx9hr6kd6gdv0aq89v49gfg26rswalv2qkedkhu",
+    "source": "Nostr",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": true
+  },
+  {
+    "id": "drivechain-008",
+    "type": "Nostr",
+    "person": "Fiatjaf",
+    "handle": "",
+    "role": "creator of Nostr",
+    "snippet": "Drivechain is the only way.",
+    "link": "https://njump.me/note1wufjfrmf6x8j82lz75z42f58mm9a3s0l9zklpdjzupwspytzwa3qpd47u2",
+    "source": "Nostr",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": true
+  },
+  {
+    "id": "drivechain-009",
+    "type": "Video",
+    "person": "Corbin Fraser",
+    "handle": "",
+    "role": "CEO of Bitcoin.com",
+    "snippet": "Paul is maybe one of the smartest people in Bitcoin... if there 's anyone can help Bitcoin scale, I do believe that some of his solutions may be a path forward...I 'm keeping a very close eye on Bip300 and 301",
+    "link": "https://www.youtube.com/live/kLGeEVZU7WE?si=UmqjwOhADi4ioLo7&t=3109",
+    "source": "YouTube",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": true
+  },
+  {
+    "id": "drivechain-010",
+    "type": "Tweet",
+    "person": "Anton Kumaigorodski",
+    "handle": "@SimpleBtcWallet",
+    "role": "inventor of hosted channels and creator of the Simple Bitcoin Wallet, the Bitcoin Lightning Wallet, the Lightning Network Wallet, and the Scala IMMORTAN library",
+    "snippet": "I fully support Drivechain because I want Hivemind since about 2018 when I first heard about them. In 2023 I want to add the following: neither hard-fork (obviously) nor a series of half-assed soft-forks will do. Soft-forks are not free, they add complexity to software code in nothing else. Throw 2-3 more soft-forks of Segwit scale and no one could be bothered figuring out what is going on there. We need one more soft-fork to end all soft-forks which is Drivechain. Another option is change nothing at all but it is a fragile solution which leaves BTC vulnerable to unknown future challenges and does not seem like an attractive investment offer to me.",
+    "link": "https://twitter.com/SimpleBtcWallet/status/1694358135308243406",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": true
+  },
+  {
+    "id": "drivechain-011",
+    "type": "Article",
+    "person": "Roberto Santacroce",
+    "handle": "",
+    "role": "CTO at Shining Block mining, and Software Engineer for the 2014 NYC Bitcoin Center",
+    "snippet": "Drivechain is one of the boldest proposals out there. It 's not simple. It 's not perfect. But it gives us a real shot at scaling Bitcoin and evolving it without fragmenting the base layer or requiring constant forks.",
+    "link": "http://bip300.xyz/bip300.html",
+    "source": "Article",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": true
+  },
+  {
+    "id": "drivechain-012",
+    "type": "Tweet",
+    "person": "Super Testnet",
+    "handle": "@supertestnet",
+    "role": "freelance software developer specializing in Bitcoin, Lightning, and Nostr",
+    "snippet": "I think we can probably do better than LN, and drivechain is one avenue toward better things.",
+    "link": "https://x.com/supertestnet/status/1943414004082257958?s=46&t=KKPpg4jlAEfn5NMRsS08uQ",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": true
+  },
+  {
+    "id": "drivechain-013",
+    "type": "Tweet",
+    "person": "Ben Arc",
+    "handle": "@arcbtc",
+    "role": "Founder of LNBits",
+    "snippet": "With BIP300 #LightningNetwork can have the \"ideal \"chain beneath it, making channel creation extremely cheap and viable enough for world adoption.",
+    "link": "https://twitter.com/arcbtc/status/1694737600571908099",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-014",
+    "type": "Podcast",
+    "person": "Junseth",
+    "handle": "",
+    "role": "Host of the legendary Bitcoin Uncensored podcast",
+    "snippet": "We need either Drivechain or something like it.",
+    "link": "https://www.whatbitcoindid.com/wbd902-junseth",
+    "source": "What Bitcoin Did",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-015",
+    "type": "Tweet",
+    "person": "Hampus Sj\u00f6berg",
+    "handle": "@hampus_s",
+    "role": "creator of Blixt Lightning Wallet",
+    "snippet": "I support Drivechain (BIP 300 and 301)",
+    "link": "https://twitter.com/hampus_s/status/1660339701369192450",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-016",
+    "type": "Tweet",
+    "person": "Luke Dashjr",
+    "handle": "@LukeDashjr",
+    "role": "Bitcoin Core developer",
+    "snippet": "Merge mining is possible today. Custodial sidechains are possible today. IF there 's a harmful side effect of drivechains, it 's already here.",
+    "link": "https://twitter.com/LukeDashjr/status/1698108239148150814",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-017",
+    "type": "Tweet",
+    "person": "Michael Tidwell",
+    "handle": "@miketwenty1",
+    "role": "Co-founder of TABConf, Founder of The Atlanta BidDevs, and VP of Infrastructure at ZEBEDEE",
+    "snippet": "I support Drivechain (BIP 300 and 301).",
+    "link": "https://twitter.com/miketwenty1/status/1659697138467737601",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-018",
+    "type": "Tweet",
+    "person": "David Bailey",
+    "handle": "@DavidFBailey",
+    "role": "Chief Executive Officer of Bitcoin Magazine and The Bitcoin Conference",
+    "snippet": "BIP 300 would improve Bitcoin builder culture infinitely. It would end 90% of the politics, new BIPS could be tried as a drivechain without changing base layer. Developers and new ideas would 1000x",
+    "link": "https://twitter.com/DavidFBailey/status/1695851669425140031",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-019",
+    "type": "Tweet",
+    "person": "Dan Held",
+    "handle": "@danheld",
+    "role": "Bitcoin educator and marketing advisor @trustmachinesco. Previously: Growth/Product @Kraken, @Uber, @Blockchain",
+    "snippet": "...The more speculative assets on Bitcoin the better as those assets introduce new audiences to Bitcoin. I observed this phenomenon with ETH at NFT NYC... Those concerned with MEV risk are simply avoiding the inevitable.",
+    "link": "https://x.com/danheld/status/1694063601491787906",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-020",
+    "type": "Tweet",
+    "person": "Dan Held",
+    "handle": "@danheld",
+    "role": "Bitcoin educator and marketing advisor @trustmachinesco. Previously: Growth/Product @Kraken, @Uber, @Blockchain",
+    "snippet": "The narrative that people are \u201crushing\u201d BIP 300 (Drivechains) is patently false. Folks have been working on sidechains and drivechains for ~8 years. I haven\u2019t decided if I\u2019m for or againat Drivechains, but the \u201crushing\u201d narrative is a dishonest framing.",
+    "link": "https://x.com/danheld/status/1696930808685072653",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-021",
+    "type": "Tweet",
+    "person": "Vlad Costea",
+    "handle": "@TheVladCostea",
+    "role": "Host of the Bitcoin Takeover Podcast",
+    "snippet": "Merged mining is a pretty big deal, yes. It 's also why I support the idea of Drivechains.",
+    "link": "https://twitter.com/TheVladCostea/status/1655105296958668803",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-022",
+    "type": "Tweet",
+    "person": "Torkel Rogstad",
+    "handle": "@torkelrogstad",
+    "role": "Co-founder at Bare Bitcoin",
+    "snippet": "We desperately need to take a long and hard look in the mirror, and start doing things differently. I think starting a more serious and thorough discussion about BIP300 (Drivechain) is the right place to start.",
+    "link": "https://twitter.com/torkelrogstad/status/1512501111659409409",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-023",
+    "type": "Podcast",
+    "person": "Pete Rizzo",
+    "handle": "",
+    "role": "Editor of Bitcoin Magazine and Editor-At-Large at Kraken Digital Asset Exchange",
+    "snippet": "...I think anybody in the developer community will tell you, even if they don 't want to do Drivechains, that they respect Paul Sztorc, because Paul Sztorc is trying to further Bitcoin as a technology.",
+    "link": "https://www.whatbitcoindid.com/wbd868-pete-rizzo",
+    "source": "What Bitcoin Did",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-024",
+    "type": "Tweet",
+    "person": "Bruce Fenton",
+    "handle": "@brucefenton",
+    "role": "CEO of Chainstone Labs, Host of the Satoshi Roundtable, and GOP Senate Candidate",
+    "snippet": "BIP 300 \ud83d\ude80\u26a1\ufe0f\ud83d\udc4d",
+    "link": "https://twitter.com/brucefenton/status/1663942824507604994",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-025",
+    "type": "Tweet",
+    "person": "Edan Yago",
+    "handle": "@EdanYago",
+    "role": "Cheerleader-In-Chief at Sovryn",
+    "snippet": "The only thing missing from Bitcoin is that ability to adopt any feature or technology without changing main chain. BIP 300 fixes this.",
+    "link": "https://twitter.com/EdanYago/status/1402036078614306822",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-026",
+    "type": "Tweet",
+    "person": "Guy Swann",
+    "handle": "@TheGuySwann",
+    "role": "Host of the Bitcoin Audible podcast",
+    "snippet": "I feel like sidechains are an inevitable part of the ecosystem for multiple reasons, &I simply see BIP300 as a hashrate based sidechain rather than a federated multisig. I 100% agree on the alts issue, but that 's not why i am interested in it.",
+    "link": "https://twitter.com/TheGuySwann/status/1457557455127425030",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-027",
+    "type": "Tweet",
+    "person": "Jameson Lopp",
+    "handle": "@lopp",
+    "role": "Co-founder and Chief Technology Officer at Casa",
+    "snippet": "I 'm generally in favor of finally fulfilling the promise of 2-way pegged sidechains. I 've yet to see a convincing concern of how it could be dangerous to the main chain. Some folks have said it could be dangerous if a sidechain became more valuable than the base chain, but seems to me that would be a signal that perhaps the base chain should implement that sidechain 's features.",
+    "link": "https://twitter.com/lopp/status/1696890131049848977",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-028",
+    "type": "Tweet",
+    "person": "John Light",
+    "handle": "@lightcoin",
+    "role": "Product at Sovryn, Bitcoin researcher, creator of www.BitcoinRollups.com",
+    "snippet": "I support activating BIP300 as soon as the implementation is ready (dev 'd, reviewed, QAed, merged) and letting users decide when mining is \"decentralized enough \"for drivechains to be secure. Maybe it already is! Maybe it never will be! Only one way to know for sure: try it out.",
+    "link": "https://twitter.com/lightcoin/status/1696216971526787285",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-029",
+    "type": "Link",
+    "person": "Giacomo Zucco",
+    "handle": "",
+    "role": "Chief Executive Officer at ZuckBucks, Bitcoiner, entrepreneur, consultant and educator",
+    "snippet": "I like drivechain but I 'm skeptical they will ever have consensus",
+    "link": "https://t.me/lightningwallet/234397",
+    "source": "External",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-030",
+    "type": "Tweet",
+    "person": "Giacomo Zucco",
+    "handle": "@giacomozucco",
+    "role": "Chief Executive Officer at ZuckBucks, Bitcoiner, entrepreneur, consultant and educator",
+    "snippet": "I 'm not very convinced abour drivechains, I do like hashrate escrows, but I like status quo as default in case of any change less than obviously necessary.",
+    "link": "https://twitter.com/giacomozucco/status/1612223050665328641",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-031",
+    "type": "Tweet",
+    "person": "Giacomo Zucco",
+    "handle": "@giacomozucco",
+    "role": "Chief Executive Officer at ZuckBucks, Bitcoiner, entrepreneur, consultant and educator",
+    "snippet": "Drivechains give lots of censoring power to miners. I 'd prefer a coinwitness kind of 2WP. But yes: a monero-like sidechain would be way better than Monero as a separate shitcoin, also for swaps (no slippage, less liquidity bottleneck).",
+    "link": "https://twitter.com/giacomozucco/status/1507377144237805572",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-032",
+    "type": "Tweet",
+    "person": "Andrew Bailey",
+    "handle": "@resistancemoney",
+    "role": "Associate Professor of Humanities/Philosophy, Yale-NUS College",
+    "snippet": "I support Drivechain (BIP 300 and 301)",
+    "link": "https://twitter.com/resistancemoney/status/1659753312881893376",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-033",
+    "type": "Tweet",
+    "person": "Troy Cross",
+    "handle": "@thetrocro",
+    "role": "Professor of Philosophy and Humanities at Reed College",
+    "snippet": "[...] long-term we need either a better fee market, something like drivechains, or else\u2026 mining at a loss by large stakeholders.",
+    "link": "https://twitter.com/thetrocro/status/1504493801003360258",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-034",
+    "type": "Tweet",
+    "person": "Brad Mills",
+    "handle": "@bradmillscan",
+    "role": "Host of the Magic Internet Money podcast and Bitcoin-focused investor",
+    "snippet": "Down the line when Bip 300 is activated, we can have more trustless sidechains.",
+    "link": "https://twitter.com/bradmillscan/status/1404896202328530955",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-035",
+    "type": "Tweet",
+    "person": "Eric Wall",
+    "handle": "@ercwl",
+    "role": "Founder at SimpDAO",
+    "snippet": "it\u2019s been 7 years since @Truthcoin wrote the original drivechain blog post. if you went back in time and told me that 7 years later no effort has been made towards merge-mined sidechains but that the same people who opposed them were upset ethereum existed i\u2019d laugh in your face",
+    "link": "https://twitter.com/ercwl/status/1594449547689869319",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-036",
+    "type": "Tweet",
+    "person": "Eric Wall",
+    "handle": "@ercwl",
+    "role": "Founder at SimpDAO",
+    "snippet": "I am still a drivechain supporter.",
+    "link": "https://twitter.com/ercwl/status/1687225844303794176",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-037",
+    "type": "Tweet",
+    "person": "Nic Carter",
+    "handle": "@nic__carter",
+    "role": "Founder and General Partner at Castle Island Ventures",
+    "snippet": "I agree with all of this",
+    "link": "https://twitter.com/nic__carter/status/1542176840726495232",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-038",
+    "type": "Tweet",
+    "person": "Ari Paul",
+    "handle": "@AriDavidPaul",
+    "role": "Founder and Chief Investment Officer at BlockTower Capital",
+    "snippet": "...Drivechains are at least 4 years old. The LN whitepaper was 2016. If there had been aggressive innovation (from the user functionality perspective) on this stuff, I 'd agree it would have taken the wind out of many altcoin sails, but there wasn 't so it didn 't.",
+    "link": "https://twitter.com/AriDavidPaul/status/1404803437313789965",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-039",
+    "type": "Tweet",
+    "person": "Trevor.btc",
+    "handle": "@to",
+    "role": "Host of TheOrdinalShow, Investor in 50+ BTC startups, Chief Executive Officer at Ninjalerts, General Partner at BTCFrontierFund",
+    "snippet": "The most bullish thing about Bitcoin 's BIP 300 is seeing all the left curve Laser Eyes come out against it",
+    "link": "https://x.com/to/status/1695900135811617235",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-040",
+    "type": "Tweet",
+    "person": "J0E007",
+    "handle": "@J0E007",
+    "role": "cryptocurrency trader",
+    "snippet": "As a self-professed Bitcoin maximalist, I support #BIP300. Enabling permissionless innovation on top of a stable and conservative Bitcoin base layer (rather than pushing them into shitcoinosphere) is a very important goalz. That 's how modern versatile Internet came into being.",
+    "link": "https://twitter.com/J0E007/status/1408788553560117256",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-041",
+    "type": "Tweet",
+    "person": "Paul Puey",
+    "handle": "@paullinator",
+    "role": "Co-founder at EdgeWallet",
+    "snippet": "I 'm a fan.",
+    "link": "https://twitter.com/paullinator/status/1620100865460957185",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-042",
+    "type": "Tweet",
+    "person": "Joel Kaartinen",
+    "handle": "@jkaartinen",
+    "role": "Lead Systems Architect at PrasosLtd",
+    "snippet": "I don 't really see an argument against drivechain here. If 51% of miners are colluding hard enough and \"willing to steal \", Bitcoin is in deep trouble, drivechains or not.",
+    "link": "https://twitter.com/jkaartinen/status/1412123740796821504",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-043",
+    "type": "Tweet",
+    "person": "Alex Kravets",
+    "handle": "@alexkravets",
+    "role": "Founder and Chief Executive Officer at Satoshium, Inventor of Google Auto-Complete",
+    "snippet": "As for Drivechains, DCs simply multiply usefulness of Bitcoin WITHOUT any risk to those who don 't want to use them.",
+    "link": "https://x.com/alexkravets/status/1619513041397379074?s=46&t=KKPpg4jlAEfn5NMRsS08uQ",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-044",
+    "type": "Tweet",
+    "person": "Timoleon Moraitis",
+    "handle": "@timos_m",
+    "role": "Senior Researcher and Group Leader at Huawei (Machine Learning, Neuromorphic Computing, and Computational Neuroscience)",
+    "snippet": "Any sidechain replacing an altcoin increases BTC 's security by 1. eliminating competitors with potential attack interests, 2. increasing the value of the token in which btc miners are paid. On top, 3. Drivechain brings more fees to btc miners, not changing mainchain fees or size.",
+    "link": "https://x.com/timos_m/status/1190425914166906886",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-045",
+    "type": "Tweet",
+    "person": "Moonsettler",
+    "handle": "@4moonsettler",
+    "role": "Covenants Genius and Proponent of LNHance",
+    "snippet": "some think giving a blanket permission for people to do anything on top of bitcoin is a bad idea. i see that as the main value proposition of dc, to get rid of fork campaigns and shouting matches on twitter. which means it all boils down where people will put their money?",
+    "link": "https://twitter.com/4moonsettler/status/1675376832621707264",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-046",
+    "type": "Tweet",
+    "person": "Sergio Demian Lerner",
+    "handle": "@SDLerner",
+    "role": "Chief of Innovation at IOV Labs and designer of the RSK Rootstock Bitcoin sidechain",
+    "snippet": "The idea to migrate Rootstock to a drivechain when it is softforked into Bitcoin is right in the original white paper. Anyone that takes part in Rootstock knows that the destiny is to become fully decentralized.",
+    "link": "https://twitter.com/SDLerner/status/1617188603267792897",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-047",
+    "type": "Tweet",
+    "person": "Gabriel Kurman",
+    "handle": "@GabrielKurman",
+    "role": "Co-founder at RSK Rootstock Bitcoin sidechain",
+    "snippet": "Absolutely we count on the Bitcoin Core Devs to implement the Drivechain softfork as soon as possible to make Sidechains 2.0 a reality!",
+    "link": "https://twitter.com/GabrielKurman/status/1121945970177191937",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-048",
+    "type": "Tweet",
+    "person": "Nick Hansen",
+    "handle": "@hash_bender",
+    "role": "CEO and Co-founder at Luxor Technologies",
+    "snippet": "Yes \"[in response to \"would you signal to activate BIP300?\"]",
+    "link": "https://x.com/hash_bender/status/1690197331550060544",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-049",
+    "type": "Tweet",
+    "person": "Marshall Long",
+    "handle": "@OGBTC",
+    "role": "Head of Architecture at Rhodium Enterprises, Inc.",
+    "snippet": "...my opinion on Drivechains. Here it is. In general I think it 's a good idea...",
+    "link": "https://twitter.com/OGBTC/status/1697381313316081676",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-050",
+    "type": "Tweet",
+    "person": "Ruben Somsen",
+    "handle": "@SomsenRuben",
+    "role": "Bitcoin Sorcerer and creator of Spacechains",
+    "snippet": "I have no strong stance on drivechains, for or against",
+    "link": "https://twitter.com/SomsenRuben/status/1411698229264125953",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-051",
+    "type": "Tweet",
+    "person": "Ruben Somsen",
+    "handle": "@somsenruben",
+    "role": "Bitcoin Sorcerer and creator of Spacechains",
+    "snippet": "Rollups are less scalable and more trustless (if implemented correctly) than drivechains.",
+    "link": "https://x.com/somsenruben/status/1632736383554007041?s=46&t=KKPpg4jlAEfn5NMRsS08uQ",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-052",
+    "type": "Tweet",
+    "person": "Ruben Somsen",
+    "handle": "@SomsenRuben",
+    "role": "Bitcoin Sorcerer and creator of Spacechains",
+    "snippet": "Spacechains can at least allow for a subset of use cases that drivechains enable, but not all. If drivechains actually do work safely (big if), that would be ideal.",
+    "link": "https://twitter.com/SomsenRuben/status/1411806819954085890",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-053",
+    "type": "Tweet",
+    "person": "Charlie Shrem",
+    "handle": "@CharlieShrem",
+    "role": "Founder of The Bitcoin Foundation, Host of the UntoldStories podcast",
+    "snippet": "Yes people do and I support bip300 right now.",
+    "link": "https://twitter.com/CharlieShrem/status/1699471235191627995",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-054",
+    "type": "Tweet",
+    "person": "Aaron van Wirdum",
+    "handle": "@aaronvanw",
+    "role": "journalist at Bitcoin Magazine",
+    "snippet": "Surely you wouldn 't prefer off-chain custodial accounts (eg. Coinbase) over sidechain balances (eg. Drivechain)?",
+    "link": "https://x.com/aaronvanw/status/1002916724935675904?s=46&t=KKPpg4jlAEfn5NMRsS08uQ",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-055",
+    "type": "Tweet",
+    "person": "Eric O 'Reilly",
+    "handle": "@ericohreilly",
+    "role": "Bitcoiner",
+    "snippet": "I support BIP 300 and BIP 301!",
+    "link": "https://twitter.com/ericohreilly/status/1671991032140169216",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-056",
+    "type": "Tweet",
+    "person": "Nitesh \u20bf\u26a1\ufe0f",
+    "handle": "@nitesh_btc",
+    "role": "Open Source Dev, Lightning Engineer at FoundryServices",
+    "snippet": "I support Drivechains! (BIP 300/301)",
+    "link": "https://twitter.com/nitesh_btc/status/1682496359306240000",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-057",
+    "type": "Nostr",
+    "person": "Metamick",
+    "handle": "",
+    "role": "Co-founder and Chief Executive Officer @GeyserFund",
+    "snippet": "Sometimes I think the name \"drivechains \"drives people away. If you do the research, it makes so much sense to do drivechains. the main risk is for for the bitcoins on the drivechains that could be hijacked by miners. Big deal.",
+    "link": "https://njump.me/nevent1qqs27png8kwes4uycaj8f6hm44p8z3l8stnax90pqtyjmdtdsz5pp4spz3mhxue69uhhyetvv9ujuerpd46hxtnfdu7063xu",
+    "source": "Nostr",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-058",
+    "type": "Tweet",
+    "person": "\u20bfit\u26a1\ufe0fDov",
+    "handle": "@bitdov",
+    "role": "@bitcoinheiros",
+    "snippet": "Drivechains - Crypto without shitcoins. Make Crypto Great Again",
+    "link": "https://x.com/bitdov/status/1700280556238323851",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-059",
+    "type": "Tweet",
+    "person": "Stewart Mackenzie",
+    "handle": "@sj_mackenzie",
+    "role": "Host of The Stewart Mackenzie Indaba",
+    "snippet": "The sooner BIP-300/1 happens the better.",
+    "link": "https://twitter.com/sj_mackenzie/status/1580367565066358784",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-060",
+    "type": "Tweet",
+    "person": "Alexei Zamyatin",
+    "handle": "@alexeiZamyatin",
+    "role": "Founder @interlayHQ",
+    "snippet": "...make BTC interoperability easier (BIP300 or similar)...",
+    "link": "https://twitter.com/alexeiZamyatin/status/1594136409711218689",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-061",
+    "type": "Tweet",
+    "person": "Post Capone",
+    "handle": "@p0stc4p0n3",
+    "role": "Ordinals Enthusiast/Influencer",
+    "snippet": "*If* BIP300/301 *could* fox it then there is *at least* one fix that doesn 't require a modification of the supply cap.",
+    "link": "https://twitter.com/p0stc4p0n3/status/1619605474390982658",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-062",
+    "type": "Tweet",
+    "person": "Untraceable",
+    "handle": "@donttracemebruh",
+    "role": "financial privacy extremist",
+    "snippet": "The goal should be to make bitcoin better, not try to \"kill \"other projects. Being scared of competition is a pussy move. This is why so many bitcoiners want other useful coins to fail, so that Bitcoin can be mediocre and still succeed. Bring on BIP300. make bitcoin good again.",
+    "link": "https://x.com/donttracemebruh/status/1706808937964589378",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-063",
+    "type": "Tweet",
+    "person": "Mike In Space",
+    "handle": "@mikeinspace",
+    "role": "creator of Bitcoin STAMPS",
+    "snippet": "I don\u2019t think we would see so much economic activity on other chains if we had Drivechain already.",
+    "link": "https://twitter.com/mikeinspace/status/1475679698004975620",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  },
+  {
+    "id": "drivechain-064",
+    "type": "Tweet",
+    "person": "Harold Christopher Burger, PHD",
+    "handle": "@hcburger1",
+    "role": "Global Lead at Selligent Cortex",
+    "snippet": "Drivechains are going to be the \"Internet moment \"of bitcoin. Instead of everyone building his own Ethernet network, everything is suddenly connected together. It will massively increase the value proposition of bitcoin, and as such, I am massively in favor of BIP 300/301.",
+    "link": "https://twitter.com/hcburger1/status/1724529434860908631",
+    "source": "X",
+    "photo": "",
+    "date": "",
+    "tags": [
+      "Drivechain",
+      "BIP300",
+      "BIP301",
+      "Archive"
+    ],
+    "featured": false
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "id": "democracy-missing-pieces-two-pages",
+    "slug": "democracy-missing-pieces-two-pages",
+    "title": "Democracy's Missing Pieces \u2014 Two Pages",
+    "date": "2026-01-10",
+    "year": 2026,
+    "author": "Paul Sztorc",
+    "category": "Governance",
+    "excerpt": "A condensed two-page overview of the full Democracy's Missing Pieces series, distilling the core arguments on Bitcoin governance and the case for eCash.",
+    "readTime": "5 min read",
+    "tags": [
+      "governance",
+      "democracy",
+      "bitcoin"
+    ],
+    "sourceUrl": null,
+    "attribution": {
+      "name": "truthcoin.info",
+      "url": "https://www.truthcoin.info/blog/democracy/"
+    },
+    "featured": true,
+    "thumbnail": null,
+    "thumbnailAlt": null,
+    "imageCredit": null,
+    "imagePosition": null
+  },
+  {
+    "id": "blockstreams-big-mistake",
+    "slug": "blockstreams-big-mistake",
+    "title": "Blockstream's Big Mistake",
+    "date": "2025-12-09",
+    "year": 2025,
+    "author": "Paul Sztorc",
+    "category": "Strategy",
+    "excerpt": "A post-mortem on Blockstream's strategic decisions and why the Lightning Network approach failed to deliver Bitcoin's original scaling promise.",
+    "readTime": "12 min read",
+    "tags": [
+      "bitcoin",
+      "strategy",
+      "lightning"
+    ],
+    "sourceUrl": null,
+    "attribution": {
+      "name": "truthcoin.info",
+      "url": "https://www.truthcoin.info/blog/sidechains-2014-wp/"
+    },
+    "featured": false,
+    "thumbnail": null,
+    "thumbnailAlt": null,
+    "imageCredit": null,
+    "imagePosition": null
+  },
+  {
+    "id": "democracy-missing-pieces-9-10",
+    "slug": "democracy-missing-pieces-9-10",
+    "title": "Democracy's Missing Pieces (Parts 9\u201310)",
+    "date": "2025-08-05",
+    "year": 2025,
+    "author": "Paul Sztorc",
+    "category": "Governance",
+    "excerpt": "The concluding installment: implications of democratic governance failures for decentralized systems, and what Bitcoin must do differently.",
+    "readTime": "15 min read",
+    "tags": [
+      "governance",
+      "democracy",
+      "bitcoin"
+    ],
+    "sourceUrl": null,
+    "attribution": {
+      "name": "truthcoin.info",
+      "url": "https://www.truthcoin.info/blog/dem-9/"
+    },
+    "featured": false,
+    "thumbnail": null,
+    "thumbnailAlt": null,
+    "imageCredit": null,
+    "imagePosition": null
+  },
+  {
+    "id": "democracy-missing-pieces-7-8",
+    "slug": "democracy-missing-pieces-7-8",
+    "title": "Democracy's Missing Pieces (Parts 7\u20138)",
+    "date": "2025-08-05",
+    "year": 2025,
+    "author": "Paul Sztorc",
+    "category": "Governance",
+    "excerpt": "Parts 7 and 8 dig into median voter theory and Bitcoin's structural inability to make good governance decisions under adversarial conditions.",
+    "readTime": "15 min read",
+    "tags": [
+      "governance",
+      "democracy",
+      "bitcoin"
+    ],
+    "sourceUrl": null,
+    "attribution": {
+      "name": "truthcoin.info",
+      "url": "https://www.truthcoin.info/blog/dem-7/"
+    },
+    "featured": false,
+    "thumbnail": null,
+    "thumbnailAlt": null,
+    "imageCredit": null,
+    "imagePosition": null
+  },
+  {
+    "id": "democracy-missing-pieces-5-6",
+    "slug": "democracy-missing-pieces-5-6",
+    "title": "Democracy's Missing Pieces (Parts 5\u20136)",
+    "date": "2025-08-05",
+    "year": 2025,
+    "author": "Paul Sztorc",
+    "category": "Governance",
+    "excerpt": "Parts 5 and 6 examine how Bitcoin's governance structure systematically produces bad outcomes, and why design \u2014 not culture \u2014 is the root cause.",
+    "readTime": "15 min read",
+    "tags": [
+      "governance",
+      "democracy",
+      "bitcoin"
+    ],
+    "sourceUrl": null,
+    "attribution": {
+      "name": "truthcoin.info",
+      "url": "https://www.truthcoin.info/blog/dem-5/"
+    },
+    "featured": false,
+    "thumbnail": null,
+    "thumbnailAlt": null,
+    "imageCredit": null,
+    "imagePosition": null
+  },
+  {
+    "id": "democracy-missing-pieces-3-4",
+    "slug": "democracy-missing-pieces-3-4",
+    "title": "Democracy's Missing Pieces (Parts 3\u20134)",
+    "date": "2025-08-05",
+    "year": 2025,
+    "author": "Paul Sztorc",
+    "category": "Governance",
+    "excerpt": "Parts 3 and 4 apply historical precedents for democratic governance failures to Bitcoin's current development stagnation.",
+    "readTime": "15 min read",
+    "tags": [
+      "governance",
+      "democracy",
+      "bitcoin"
+    ],
+    "sourceUrl": null,
+    "attribution": {
+      "name": "truthcoin.info",
+      "url": "https://www.truthcoin.info/blog/dem-3/"
+    },
+    "featured": false,
+    "thumbnail": null,
+    "thumbnailAlt": null,
+    "imageCredit": null,
+    "imagePosition": null
+  },
+  {
+    "id": "democracy-missing-pieces-1-2",
+    "slug": "democracy-missing-pieces-1-2",
+    "title": "Democracy's Missing Pieces (Parts 1\u20132)",
+    "date": "2025-08-05",
+    "year": 2025,
+    "author": "Paul Sztorc",
+    "category": "Governance",
+    "excerpt": "An introduction to the series: how democracy's missing pieces explain Bitcoin's inability to scale, and why eCash charts a different course.",
+    "readTime": "15 min read",
+    "tags": [
+      "governance",
+      "democracy",
+      "bitcoin"
+    ],
+    "sourceUrl": null,
+    "attribution": {
+      "name": "truthcoin.info",
+      "url": "https://www.truthcoin.info/blog/dem-1/"
+    },
+    "featured": false,
+    "thumbnail": null,
+    "thumbnailAlt": null,
+    "imageCredit": null,
+    "imagePosition": null
+  },
+  {
+    "id": "derangements-of-bitcoin",
+    "slug": "derangements-of-bitcoin",
+    "title": "Derangements of Bitcoin",
+    "date": "2025-07-16",
+    "year": 2025,
+    "author": "Paul Sztorc",
+    "category": "Bitcoin",
+    "excerpt": "A taxonomy of the most persistent and damaging intellectual derangements within the Bitcoin community \u2014 the ideas that have held the network back for a decade.",
+    "readTime": "18 min read",
+    "tags": [
+      "bitcoin",
+      "culture",
+      "governance"
+    ],
+    "sourceUrl": null,
+    "attribution": {
+      "name": "truthcoin.info",
+      "url": "https://www.truthcoin.info/blog/derangements/"
+    },
+    "featured": false,
+    "thumbnail": null,
+    "thumbnailAlt": null,
+    "imageCredit": null,
+    "imagePosition": null
+  },
+  {
+    "id": "ideal-mining-edac-pools",
+    "slug": "ideal-mining-edac-pools",
+    "title": "Ideal Mining (EDAC Pools)",
+    "date": "2025-05-26",
+    "year": 2025,
+    "author": "Paul Sztorc",
+    "category": "Mining",
+    "excerpt": "Introducing EDAC (Expected-Demand-Adjusted Cost) mining pools: a framework for ideal mining that aligns miner incentives with long-run network health.",
+    "readTime": "12 min read",
+    "tags": [
+      "mining",
+      "pools",
+      "economics"
+    ],
+    "sourceUrl": null,
+    "attribution": {
+      "name": "truthcoin.info",
+      "url": "https://www.truthcoin.info/blog/ideal-mining/"
+    },
+    "featured": false,
+    "thumbnail": null,
+    "thumbnailAlt": null,
+    "imageCredit": null,
+    "imagePosition": null
+  },
+  {
+    "id": "popular-mining-lies",
+    "slug": "popular-mining-lies",
+    "title": "Popular Mining Lies / The Mining Grift",
+    "date": "2025-05-26",
+    "year": 2025,
+    "author": "Paul Sztorc",
+    "category": "Mining",
+    "excerpt": "A critical examination of widely-accepted mining narratives \u2014 debunking the myths and exposing the economic distortions they create for the Bitcoin ecosystem.",
+    "readTime": "10 min read",
+    "tags": [
+      "mining",
+      "economics",
+      "critique"
+    ],
+    "sourceUrl": null,
+    "attribution": {
+      "name": "truthcoin.info",
+      "url": "https://www.truthcoin.info/blog/popular-mining-lies/"
+    },
+    "featured": false,
+    "thumbnail": null,
+    "thumbnailAlt": null,
+    "imageCredit": null,
+    "imagePosition": null
+  },
+  {
+    "id": "unlimited-blocksize-bsv",
+    "slug": "unlimited-blocksize-bsv",
+    "title": "Unlimited Blocksize (BSV) and the Data Availability Problem",
+    "date": "2025-04-30",
+    "year": 2025,
+    "author": "Paul Sztorc",
+    "category": "Drivechains",
+    "excerpt": "Why BSV's unlimited blocksize approach creates an unsolvable data availability problem \u2014 and what this means for honest blockchain scalability.",
+    "readTime": "8 min read",
+    "tags": [
+      "bitcoin",
+      "bsv",
+      "scaling",
+      "drivechains"
+    ],
+    "sourceUrl": null,
+    "attribution": {
+      "name": "truthcoin.info",
+      "url": "https://www.truthcoin.info/blog/bsv-data-avail/"
+    },
+    "featured": false,
+    "thumbnail": null,
+    "thumbnailAlt": null,
+    "imageCredit": null,
+    "imagePosition": null
+  },
+  {
+    "id": "precedence-ossification",
+    "slug": "precedence-ossification",
+    "title": "Precedence Ossification",
+    "date": "2025-03-01",
+    "year": 2025,
+    "author": "Paul Sztorc",
+    "category": "Bitcoin",
+    "excerpt": "How Bitcoin's codebase and culture have become ossified by precedent \u2014 preventing necessary upgrades and creating a path dependency that favors the status quo.",
+    "readTime": "18 min read",
+    "tags": [
+      "bitcoin",
+      "culture",
+      "governance"
+    ],
+    "sourceUrl": null,
+    "attribution": {
+      "name": "truthcoin.info",
+      "url": "https://www.truthcoin.info/blog/precedence-ossification/"
+    },
+    "featured": false,
+    "thumbnail": null,
+    "thumbnailAlt": null,
+    "imageCredit": null,
+    "imagePosition": null
+  }
+]

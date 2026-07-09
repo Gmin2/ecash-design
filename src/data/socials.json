@@ -1,0 +1,72 @@
+[
+  {
+    "platform": "X \u00b7 Twitter",
+    "handle": "@ecashdotcom",
+    "url": "https://x.com/ecashdotcom",
+    "description": "The official eCash account \u2014 announcements, fork updates, and everything happening on ecash.com.",
+    "role": "official"
+  },
+  {
+    "platform": "X \u00b7 Twitter",
+    "handle": "@truthcoin",
+    "url": "https://x.com/truthcoin",
+    "description": "Paul Sztorc's personal account \u2014 Bitcoin criticism, drivechain research, and the eCash thesis.",
+    "role": "main-contributor"
+  },
+  {
+    "platform": "X \u00b7 Twitter",
+    "handle": "@layertwolabs",
+    "url": "https://x.com/layertwolabs",
+    "description": "LayerTwo Labs team \u2014 dev updates, signet milestones, and protocol announcements.",
+    "role": "official"
+  },
+  {
+    "platform": "Telegram",
+    "handle": "@ecashcom_official",
+    "url": "https://t.me/ecashcom_official",
+    "description": "Official eCash announcement channel \u2014 important updates, releases, and fork milestones.",
+    "role": "official"
+  },
+  {
+    "platform": "Telegram",
+    "handle": "@eCashHangout",
+    "url": "https://t.me/eCashHangout",
+    "description": "The eCash community hangout \u2014 casual discussion, questions, and connecting with other supporters.",
+    "role": "community"
+  },
+  {
+    "platform": "Telegram",
+    "handle": "@DcInsiders",
+    "url": "https://t.me/DcInsiders",
+    "description": "The main Drivechain community \u2014 BIP-300 discussion, ecosystem building, and technical debate.",
+    "role": "community"
+  },
+  {
+    "platform": "Telegram",
+    "handle": "@psztorc",
+    "url": "https://t.me/psztorc",
+    "description": "Paul's personal Telegram \u2014 longer-form commentary and direct updates from the founder.",
+    "role": "main-contributor"
+  },
+  {
+    "platform": "YouTube",
+    "handle": "@ecashdotcom",
+    "url": "https://youtube.com/@ecashdotcom",
+    "description": "Interviews, explainer videos, a decade of Drivechain talks, and recorded debates.",
+    "role": "official"
+  },
+  {
+    "platform": "GitHub",
+    "handle": "LayerTwo-Labs",
+    "url": "https://github.com/LayerTwo-Labs",
+    "description": "Open-source home of the eCash node, BitWindow, Thunder, zSide, and all L2 repos.",
+    "role": "official"
+  },
+  {
+    "platform": "Blog",
+    "handle": "ecashblog.com",
+    "url": "https://ecashblog.com/",
+    "description": "Community-run publication covering the eCash thesis, Drivechain philosophy, and fork analysis. Not affiliated with LayerTwo Labs.",
+    "role": "community"
+  }
+]

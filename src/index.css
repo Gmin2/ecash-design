@@ -142,6 +142,36 @@ p {
   }
 }
 
+/* card glyph hover animations */
+@keyframes glyphWiggle {
+  0% {
+    transform: rotate(0deg) scale(1);
+  }
+  30% {
+    transform: rotate(-9deg) scale(1.15);
+  }
+  60% {
+    transform: rotate(7deg) scale(1.08);
+  }
+  100% {
+    transform: rotate(0deg) scale(1.1);
+  }
+}
+@keyframes glyphSpin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.glyph-anim,
+.glyph-spin {
+  transition: transform 0.3s ease;
+}
+.group:hover .glyph-anim {
+  animation: glyphWiggle 0.5s ease forwards;
+}
+.group:hover .glyph-spin {
+  animation: glyphSpin 1.4s linear infinite;
+}
 @keyframes marqueeX {
   from {
     transform: translateX(0);

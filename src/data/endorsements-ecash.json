@@ -1,0 +1,177 @@
+[
+  {
+    "id": "ecash-static-xximpod-1",
+    "type": "Tweet",
+    "person": "xximpod",
+    "handle": "@xximpod",
+    "snippet": "\ud83d\udea8 Episode w @Truthcoin \u2014 \"Bitcoin Lightning & Bitcoin Cash Failed Mission, Now Hard Forking Bitcoin to Launch ECash\"\n\n@Sehgal_ankit sits down with @Truthcoin, Bitcoin researcher and CEO of @LayerTwoLabs, to discuss his decade-long push for Bitcoin scaling through Drivechain (BIP 300 & 301) and why he's now launching eCash: a Bitcoin hard fork scheduled for August that activates the sidechain vision Bitcoin Core refused to enable.",
+    "link": "https://x.com/xximpod/status/2058537729714164107",
+    "date": "2026-05-24"
+  },
+  {
+    "id": "ecash-static-coinbureau-1",
+    "type": "Video",
+    "person": "Coin Bureau",
+    "snippet": "Satoshi's Stash Gets Grabbed in eCash Bitcoin Fork",
+    "link": "https://www.youtube.com/watch?v=itJpwsK3WVg",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "ecash-static-alphastack-1",
+    "type": "Video",
+    "person": "Alphastack",
+    "snippet": "Bitcoin Fork EXPLAINED: 7 New Chains Coming in August?",
+    "link": "https://www.youtube.com/watch?v=buhJpD5ddoE",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "ecash-static-truthcoin-1",
+    "type": "Tweet",
+    "person": "Paul Sztorc",
+    "handle": "@Truthcoin",
+    "role": "Creator of BIP 300/301, Lead Developer of eCash",
+    "snippet": "BREAKING: New Bitcoin Fork\n\nI am helping create a new Bitcoin Hardfork \u2014 dropping this August, called \"eCash\".\n\nYour coins will split. If you have 4.19 BTC, you will get 4.19 eCash. You may sell your eCash \u2014 or keep it. Or ignore it!",
+    "link": "https://x.com/Truthcoin/status/2047639261453680838",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "ecash-static-layertwolabs-1",
+    "type": "Tweet",
+    "person": "Layer Two Labs",
+    "handle": "@LayerTwoLabs",
+    "role": "Company behind BIP 300/301 development",
+    "snippet": "WATCH: @reardencode admits @Truthcoin has a point about L2 fees on a podcast with @jimmysong and @ToneVays",
+    "link": "https://x.com/LayerTwoLabs/status/2015509852647235624",
+    "date": "2026-01-25"
+  },
+  {
+    "id": "ecash-static-yahoofinance-video-1",
+    "type": "Video",
+    "person": "Yahoo Finance",
+    "snippet": "The eCash Hard Fork on Bitcoin Could Be 'Bizarre' For Miners: Here's How",
+    "link": "https://finance.yahoo.com/video/ecash-hard-fork-bitcoin-could-211801875.html",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "ecash-static-reddit-1",
+    "type": "Article",
+    "person": "r/CryptoTechnology",
+    "snippet": "Technical Analysis of the eCash Hard Fork",
+    "link": "https://www.reddit.com/r/CryptoTechnology/comments/1sxsnic/technical_analysis_of_the_ecash_hard_fork/",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "ecash-static-bitcoincom-1",
+    "type": "Article",
+    "person": "Bitcoin.com",
+    "snippet": "Bitcoin's August Hard Fork May Dwarf Every Previous Split Combined \u2014 Here's Why",
+    "link": "https://news.bitcoin.com/bitcoins-august-hard-fork-may-dwarf-every-previous-split-combined-heres-why/",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "ecash-static-cryptotimes-1",
+    "type": "Article",
+    "person": "CryptoTimes",
+    "snippet": "Paul Sztorc Pushes Back on eCash 'Theft' Claims: 'We Don't Take a Single BTC'",
+    "link": "https://www.cryptotimes.io/2026/04/28/paul-sztorc-pushes-back-on-ecash-theft-claims-we-dont-take-a-single-btc/",
+    "date": "2026-04-28"
+  },
+  {
+    "id": "ecash-static-yahoofinance-1",
+    "type": "Article",
+    "person": "Yahoo Finance",
+    "snippet": "Bitcoin Developer Plans to 'Reassign' Coins Linked to Satoshi Nakamoto in Hard Fork",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-developer-plans-reassign-coins-201529807.html",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "ecash-static-bitcoinmanual-1",
+    "type": "Article",
+    "person": "The Bitcoin Manual",
+    "snippet": "What Is The eCash Fork?",
+    "link": "https://thebitcoinmanual.com/articles/ecash-fork/",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "ecash-static-bitcoinnewscom-1",
+    "type": "Tweet",
+    "person": "Bitcoin News",
+    "handle": "@BitcoinNewsCom",
+    "snippet": "NEW BITCOIN FORK PROPOSED SET FOR AUGUST LAUNCH\n\nA new Bitcoin hard fork dubbed \"eCash\" is being developed by Paul Sztorc. Holders would receive a 1:1 split of their BTC \u2014 4.19 BTC would result in 4.19 eCash. One of the most contentious elements is the proposed reassignment of a portion of Satoshi's estimated 1.1M BTC as a premine for investors on the new chain.",
+    "link": "https://x.com/BitcoinNewsCom/status/2048020029350858845",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "ecash-static-binance-1",
+    "type": "Article",
+    "person": "Binance Square",
+    "snippet": "eCash hard fork coverage \u2014 Binance Square",
+    "link": "https://www.binance.com/en/square/post/317501666142529",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "ecash-static-cryptorank-1",
+    "type": "Article",
+    "person": "CryptoRank",
+    "snippet": "Top Bitcoin Dev Is Launching a New BTC Fork That Will Give Holders New eCash",
+    "link": "https://cryptorank.io/news/feed/2323a-top-bitcoin-dev-is-launching-a-new-btc-fork-that-will-give-holders-new-ecash-but-claiming",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "ecash-static-mexc-1",
+    "type": "Article",
+    "person": "MEXC",
+    "snippet": "eCash hard fork coverage \u2014 MEXC News",
+    "link": "https://www.mexc.com/news/1053036",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "ecash-static-tradingview-1",
+    "type": "Article",
+    "person": "CoinTelegraph",
+    "source": "CoinTelegraph",
+    "snippet": "Bitcoin developer Paul Sztorc announces BTC hard fork called eCash",
+    "link": "https://www.tradingview.com/news/cointelegraph:ecd9e1072094b:0-bitcoin-developer-paul-sztorc-announces-btc-hard-fork-called-ecash/",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "ecash-static-cryptoeconomy-1",
+    "type": "Article",
+    "person": "Crypto Economy",
+    "snippet": "Bitcoin Dev Paul Sztorc Unveils New 'eCash' Hard Fork Proposal",
+    "link": "https://crypto-economy.com/bitcoin-dev-paul-sztorc-unveils-new-ecash-hard-fork-proposal/",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "ecash-static-cryptonews-1",
+    "type": "Article",
+    "person": "CryptoNews",
+    "snippet": "Bitcoin Hard Fork eCash Set to Launch in August: Drivechain Proposer Reveals Plan",
+    "link": "https://cryptonews.net/news/bitcoin/32762233/",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "ecash-static-binance-2",
+    "type": "Article",
+    "person": "Binance Square",
+    "snippet": "eCash hard fork coverage \u2014 Binance Square",
+    "link": "https://www.binance.com/en/square/post/316121980126737",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "ecash-static-cryptoslate-1",
+    "type": "Article",
+    "person": "CryptoSlate",
+    "snippet": "Top Bitcoin Dev Is Launching a New BTC Fork That Will Give Holders New eCash",
+    "link": "https://cryptoslate.com/top-bitcoin-dev-is-launching-a-new-btc-fork-that-will-give-holders-new-ecash-but-claiming-it-may-be-the-real-risk/",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "ecash-static-forklog-1",
+    "type": "Article",
+    "person": "ForkLog",
+    "snippet": "Developer Announces Bitcoin Hard Fork and Distribution of Satoshi's Coins",
+    "link": "https://forklog.com/en/developer-announces-bitcoin-hard-fork-and-distribution-of-satoshis-coins/",
+    "date": "2026-04-25"
+  }
+]
